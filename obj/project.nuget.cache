@@ -1,0 +1,27 @@
+{
+  "version": 2,
+  "dgSpecHash": "dbbpuj6dOhe6zzRtgfTbg61yNrkgikB7X24hIFLTK28iJSMG8z8ytpHSgxHtZ5xQXY6UKYOlpulMjmS/jF1S1A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\v-isford\\Desktop\\TestAppConfig\\TestAppConfig\\TestAppConfig.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\v-isford\\.nuget\\packages\\azure.core\\1.0.1\\azure.core.1.0.1.nupkg.sha512",
+    "C:\\Users\\v-isford\\.nuget\\packages\\azure.data.appconfiguration\\1.0.0\\azure.data.appconfiguration.1.0.0.nupkg.sha512",
+    "C:\\Users\\v-isford\\.nuget\\packages\\azure.security.keyvault.secrets\\4.0.1\\azure.security.keyvault.secrets.4.0.1.nupkg.sha512",
+    "C:\\Users\\v-isford\\.nuget\\packages\\microsoft.azure.appconfiguration.aspnetcore\\4.0.0\\microsoft.azure.appconfiguration.aspnetcore.4.0.0.nupkg.sha512",
+    "C:\\Users\\v-isford\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.0.0\\microsoft.bcl.asyncinterfaces.1.0.0.nupkg.sha512",
+    "C:\\Users\\v-isford\\.nuget\\packages\\microsoft.extensions.configuration\\2.1.1\\microsoft.extensions.configuration.2.1.1.nupkg.sha512",
+    "C:\\Users\\v-isford\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\2.1.1\\microsoft.extensions.configuration.abstractions.2.1.1.nupkg.sha512",
+    "C:\\Users\\v-isford\\.nuget\\packages\\microsoft.extensions.configuration.azureappconfiguration\\4.0.0\\microsoft.extensions.configuration.azureappconfiguration.4.0.0.nupkg.sha512",
+    "C:\\Users\\v-isford\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\2.1.1\\microsoft.extensions.dependencyinjection.abstractions.2.1.1.nupkg.sha512",
+    "C:\\Users\\v-isford\\.nuget\\packages\\microsoft.extensions.primitives\\2.1.1\\microsoft.extensions.primitives.2.1.1.nupkg.sha512",
+    "C:\\Users\\v-isford\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.10.9\\microsoft.visualstudio.azure.containers.tools.targets.1.10.9.nupkg.sha512",
+    "C:\\Users\\v-isford\\.nuget\\packages\\system.buffers\\4.5.0\\system.buffers.4.5.0.nupkg.sha512",
+    "C:\\Users\\v-isford\\.nuget\\packages\\system.diagnostics.diagnosticsource\\4.6.0\\system.diagnostics.diagnosticsource.4.6.0.nupkg.sha512",
+    "C:\\Users\\v-isford\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512",
+    "C:\\Users\\v-isford\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\v-isford\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.5.1\\system.runtime.compilerservices.unsafe.4.5.1.nupkg.sha512",
+    "C:\\Users\\v-isford\\.nuget\\packages\\system.text.json\\4.6.0\\system.text.json.4.6.0.nupkg.sha512",
+    "C:\\Users\\v-isford\\.nuget\\packages\\system.threading.tasks.extensions\\4.5.2\\system.threading.tasks.extensions.4.5.2.nupkg.sha512"
+  ],
+  "logs": []
+}
