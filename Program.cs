@@ -22,7 +22,7 @@ namespace TestAppConfig
                webBuilder.ConfigureAppConfiguration(config =>
                {
                    var settings = config.Build();
-                   var connection = "Endpoint=https://windwsvisford.azconfig.io;Id=WfY2-l4-s0:EpxGKG/6o2dh2Rj8nPKR;Secret=N0DPO3kM3WJBbxHoICU3/rK8byvJn7oMItOOLMt3Dl0=";
+                   var connection = "Insert Connection string for app config ";
                    config.AddAzureAppConfiguration(connection);
                }).UseStartup<Startup>());
     }
